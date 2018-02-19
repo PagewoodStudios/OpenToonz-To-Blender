@@ -1,5 +1,5 @@
 '''
-Overviiew:
+Overview:
 
     1. Switching out camera Data
     2. OpenToonz column data as image planes sequence files
@@ -8,9 +8,8 @@ Overviiew:
 
 
 Credits:
-    Pagewood Studios
+    Pagewood Studios - www.PagewoodStudios.com
     Adam Earle
 
 
 '''
-
