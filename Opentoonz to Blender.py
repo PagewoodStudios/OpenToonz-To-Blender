@@ -7,4 +7,10 @@ Overviiew:
     3. Check to see if its possible bring across some compisting features of OT to Blender and vice versa
 
 
+Credits:
+    Pagewood Studios
+    Adam Earle
+
+
 '''
+
